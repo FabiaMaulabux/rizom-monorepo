@@ -112,8 +112,8 @@ For myself, I already marked where I want to:
 
 ### Key Activity 4: Make Rizom's Organizational Model Sustainable
 
-+ Develop and document Rizom Method (JH)
-+ Share 100 Offcourse Cards Internally (JH)
++ A Validated Rizom Method (JH)
++ 100 Offcourse Cards For Internal Use (JH)
 + Develop Offcourse (JH)
-+ Develop and Test CORA 
-+ Determine Shared Tools (JH-)
++ A Validated Way of Working on Projects (F) PRIO 1 - Deadline TBD
++ Implemented Shared Tools for communication, PM, documentation (JH-)
